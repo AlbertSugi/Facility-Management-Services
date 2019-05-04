@@ -40,6 +40,7 @@ Below here is the UML Diagram of of the application. Click the picture to Zoom i
 2. Import the attached SQL code to the SQL Query Browser <br/>
 3. Change the connection in the DB_Helper class:<br/>
    connection = DriverManager.getConnection(#Change codes here);
+4. Run the desired client in Client class. 
 
 
  
