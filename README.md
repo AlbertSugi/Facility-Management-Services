@@ -1,7 +1,7 @@
 # Overview
 Facillity Management Services is  a system which supports the management of buildings, allowing users to view rooms inside a certain facility that are available for daily usage, inspection, or maintenance and effectively schedule the rooms to satisfy their needs<br/>
 The program uses:<br/>
-* ***Front End*** : Android Studio  //in Development
+* ***Front End*** : RestFul  //in Development
 * ***Back End***  : Java<br/>
 * ***Framework*** : SpringBoot<br/>
 * ***Database***  : PostgreSQL<br/>
