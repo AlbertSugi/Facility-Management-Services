@@ -7,8 +7,8 @@ The program uses:<br/>
 * ***Database***  : PostgreSQL<br/>
 * ***Testing***   : Junit and Integration Test (Mockito) //in Development
 
-# Database Workflow
-Below here is the UML Diagram of of the application. Click the picture to Zoom in.
+# MVC Diagram
+Below here is the MVC Diagram of of the application. Click the picture to Zoom in.
 <p align="center">
   <img src="https://github.com/AlbertSugi/Facility-Management-Services/blob/master/FacilityManagementServices/FacilityManagement.jpg"><br/>
 </p><br/>
